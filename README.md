@@ -1,1 +1,1 @@
-# isaac-curse-of-the-blind-helper
+# isaac-tools
